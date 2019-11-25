@@ -1,0 +1,19 @@
+{
+	"names": [
+		{
+			"name": "Aarmin Van Buuren",
+			"image": "./images/aarmin.jpg",
+			"albumInfo": "Album Info: A State of Trance Episode 941"
+		},
+		{
+			"name": "Jimi Hendrix",
+			"image": "./images/jimi.jpg",
+			"albumInfo": "Album Info: Are You Experienced"
+		},
+		{
+			"name": "Outkast",
+			"image": "https://recordmad.co.za/wp-content/uploads/2018/11/outkast.jpg",
+			"albumInfo": "Album Info: ATLiens"
+		}
+	]
+}
